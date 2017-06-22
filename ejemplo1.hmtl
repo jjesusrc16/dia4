@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/estilo2.css">
+</head>
+<body>
+<h2><img height="100" width="100" src="imagenes/cubiertos.jpg"><em>Restaurante "Los Danzantes"</em></h2>
+<ul>
+	<a href=""></a><li>Home</li>
+	<li>Nosotros</li>
+	<a href=""></a><li>Sopa del dia</li>
+	<li>Recomendaciones</li>
+</ul>
+<h3 id="especial">La sopa del dia es sopa de pollo</h3>
+<img id="especial" src="imagenes/sopa.jpg">
+
+</body>
+</html>

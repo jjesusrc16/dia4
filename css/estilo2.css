@@ -1,0 +1,31 @@
+header{
+	background: green;
+	border-color: green;
+	border-width: 10px;
+	border-style: solid;
+	border-right-width: 25px;
+	border-left-width: 25px;
+	text-align: center;
+}
+ul{
+	background: #065783;
+	border-color: #065783;
+	border-width: 10px;
+	border-style: solid;
+
+}
+
+
+body{
+	background-color: #43DBE0;
+}
+h3{
+	background: #E8E864;
+	border-color: #E8E864;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+}
+p{
+	color: #FFFFFF;
+}
